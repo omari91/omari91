@@ -82,9 +82,8 @@ _IEEE ETECOM 2025 Conference • Best Paper Award Winner_
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omari91&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omari91&layout=compact&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omari91&show_icons=true&theme=default&hide_border=true&count_private=true
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omari91&layout=compact&theme=default&hide_border=true
 
 ---
 
