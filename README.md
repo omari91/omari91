@@ -78,13 +78,5 @@ _IEEE ETECOM 2025 Conference • Best Paper Award Winner_
 - **Portfolio:** [cliffordomari.com](https://www.cliffordomari.com)
 - **ORCID:** [0009-0009-3542-4966](https://orcid.org/0009-0009-3542-4966)
 
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omari91&show_icons=true&theme=default&hide_border=true&count_private=true
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omari91&layout=compact&theme=default&hide_border=true
-
----
 
 _"Building the infrastructure for Germany's renewable energy future, one validated simulation at a time."_
