@@ -12,7 +12,7 @@
 
 Building **production-grade grid digital twins** for Germany's energy transition. Specialized in **real-time systems**, **VDE-AR-N 4110 compliance**, and **Monte Carlo validation**.
 
-**M.Sc. Electrical & Electronic Engineering** (2026) | Based in **Berlin, Germany** 🇩🇪
+**M.Sc Engineering** (2026) | Based in **Berlin, Germany** 🇩🇪
 
 ---
 
