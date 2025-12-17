@@ -70,20 +70,6 @@ _IEEE ETECOM 2025 Conference • Best Paper Award Winner_
 - Digital Twin Development & System Validation  
 
 ---
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cliffordomari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&rank_icon=percentile&ring_color=00D4FF" alt="Clifford's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliffordomari&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF" alt="Clifford's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cliffordomari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&rank=SECRET,SSS,SS,S,AAA&title=MultiLanguage,Stars,Commits,Repositories" alt="Clifford's GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cliffordomari&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FFFFFF&area=true&area_color=00D4FF&area_alpha=0.1" alt="Clifford's GitHub Activity Graph" />
-</div>
 
 
 ### 📫 Connect With Me
