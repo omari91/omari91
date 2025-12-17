@@ -1,3 +1,20 @@
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gethsun1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&rank_icon=percentile&ring_color=00D4FF" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gethsun1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gethsun1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&rank=SECRET,SSS,SS,S,AAA&title=MultiLanguage,Stars,Commits,Repositories" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gethsun1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FFFFFF&area=true&area_color=00D4FF&area_alpha=0.1" alt="GitHub Activity Graph" />
+</div>
+
+---
+
 # Hi, I'm Clifford Ondieki 👋
 
 ## Power Systems Engineer | IEEE Best Paper Award Winner
@@ -77,6 +94,5 @@ _IEEE ETECOM 2025 Conference • Best Paper Award Winner_
 - **Email:** [ondiekiclifford05@gmail.com](mailto:ondiekiclifford05@gmail.com)
 - **Portfolio:** [cliffordomari.com](https://www.cliffordomari.com)
 - **ORCID:** [0009-0009-3542-4966](https://orcid.org/0009-0009-3542-4966)
-
 
 _"Building the infrastructure for Germany's renewable energy future, one validated simulation at a time."_
