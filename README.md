@@ -85,7 +85,6 @@ _IEEE ETECOM 2025 Conference • Best Paper Award Winner_
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cliffordomari&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FFFFFF&area=true&area_color=00D4FF&area_alpha=0.1" alt="Clifford's GitHub Activity Graph" />
 </div>
 
----
 
 ### 📫 Connect With Me
 
