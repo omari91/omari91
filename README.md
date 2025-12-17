@@ -1,20 +1,3 @@
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gethsun1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&rank_icon=percentile&ring_color=00D4FF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gethsun1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gethsun1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&rank=SECRET,SSS,SS,S,AAA&title=MultiLanguage,Stars,Commits,Repositories" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gethsun1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FFFFFF&area=true&area_color=00D4FF&area_alpha=0.1" alt="GitHub Activity Graph" />
-</div>
-
----
-
 # Hi, I'm Clifford Ondieki 👋
 
 ## Power Systems Engineer | IEEE Best Paper Award Winner
@@ -35,9 +18,9 @@ Building **production-grade grid digital twins** for Germany's energy transition
 
 ### 🏆 Recent Achievements
 
-- **🥇 IEEE ETECOM 2025 Best Paper Award** — Intelligent Transportation Systems Track
-- **🔋 Berlin Grid Digital Twin** — Production-grade implementation with <50ms physics loop & validated compliance
-- **📊 Monte Carlo Robustness Testing** — n=50 runs with documented AR(1) uncertainty models
+- **🥇 IEEE ETECOM 2025 Best Paper Award** — Intelligent Transportation Systems Track  
+- **🔋 Berlin Grid Digital Twin** — Production-grade implementation with <50ms physics loop & validated compliance  
+- **📊 Monte Carlo Robustness Testing** — n=50 runs with documented AR(1) uncertainty models  
 
 ---
 
@@ -47,7 +30,7 @@ Building **production-grade grid digital twins** for Germany's energy transition
 **Programming:** Python, NumPy, Pandas, Matplotlib, Seaborn  
 **DevOps:** Docker, GitHub Actions, CI/CD, pytest, mypy  
 **Compliance:** VDE-AR-N 4110, §14a EnWG, Redispatch 3.0  
-**Real-Time Systems:** <50ms loop, 56M ops/sec throughput validation
+**Real-Time Systems:** <50ms loop, 56M ops/sec throughput validation  
 
 ---
 
@@ -57,12 +40,12 @@ Building **production-grade grid digital twins** for Germany's energy transition
 Production-grade digital twin demonstrating VDE-AR-N 4110 & §14a EnWG compliance with validated real-time performance.
 
 **Key Features:**
-- ⚡ Real-time streaming architecture (<50ms physics loop, 50Hz grid-compliant)
-- 📊 56M ops/sec throughput validated on x86_64 Linux
-- 🎯 Multi-strategy controller benchmarking (Hard Cutoff, Linear Droop, Fuzzy Logic)
-- 🔬 Monte Carlo robustness testing (n=50) with AR(1) uncertainty models
-- ✅ Multi-constraint physics validation via Pandapower AC power flow
-- 🏗️ Production-ready CI/CD architecture (pytest, mypy, Docker)
+- ⚡ Real-time streaming architecture (<50ms physics loop, 50Hz grid-compliant)  
+- 📊 56M ops/sec throughput validated on x86_64 Linux  
+- 🎯 Multi-strategy controller benchmarking (Hard Cutoff, Linear Droop, Fuzzy Logic)  
+- 🔬 Monte Carlo robustness testing (n=50) with AR(1) uncertainty models  
+- ✅ Multi-constraint physics validation via Pandapower AC power flow  
+- 🏗️ Production-ready CI/CD architecture (pytest, mypy, Docker)  
 
 ---
 
@@ -78,13 +61,29 @@ _IEEE ETECOM 2025 Conference • Best Paper Award Winner_
 
 🎯 **Seeking:** Grid Engineering, Power Systems, Automation Technology roles  
 📍 **Location:** Berlin, Germany (EU work authorization)  
-🎓 **Graduation:** First half of 2026
+🎓 **Graduation:** First half of 2026  
 
 **Target Areas:**
-- Power Systems Engineering & Grid Resilience
-- Real-Time Control Systems & Edge Computing
-- Energy Regulation Compliance (VDE, §14a EnWG)
-- Digital Twin Development & System Validation
+- Power Systems Engineering & Grid Resilience  
+- Real-Time Control Systems & Edge Computing  
+- Energy Regulation Compliance (VDE, §14a EnWG)  
+- Digital Twin Development & System Validation  
+
+---
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cliffordomari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&rank_icon=percentile&ring_color=00D4FF" alt="Clifford's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliffordomari&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF" alt="Clifford's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cliffordomari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&rank=SECRET,SSS,SS,S,AAA&title=MultiLanguage,Stars,Commits,Repositories" alt="Clifford's GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cliffordomari&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FFFFFF&area=true&area_color=00D4FF&area_alpha=0.1" alt="Clifford's GitHub Activity Graph" />
+</div>
 
 ---
 
