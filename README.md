@@ -22,6 +22,27 @@ Building **production-grade grid digital twins** for Germany's energy transition
 - **🔋 Berlin Grid Digital Twin** — Production-grade implementation with <50ms physics loop & validated compliance  
 - **📊 Monte Carlo Robustness Testing** — n=50 runs with documented AR(1) uncertainty models  
 
+
+---
+
+## 🛠️ Technical Expertise
+
+### Power Systems Communication & Automation
+| Standard | Proficiency | Application Context |
+|----------|-------------|---------------------|
+| **IEC 61850** | ⭐⭐⭐⭐☆ Hands-on | Digital substations, HVDC automation |
+| **IEC 61970 (CIM)** | ⭐⭐⭐⭐☆ | Grid modeling, data exchange |
+| **VDE-AR-N 4110** | ⭐⭐⭐⭐⭐ | German grid compliance validation |
+| **Modbus/DNP3** | ⭐⭐⭐☆☆ | Legacy SCADA integration |
+
+#### IEC 61850 Competencies
+- ✅ **Logical Nodes**: XCBR (Circuit Breaker), MMXU (Measurement), PDIS (Distance Protection), ZRCT (HVDC Rectifier)
+- ✅ **Communication Protocols**: MMS (client-server), GOOSE (peer-to-peer <4ms), SV (process bus)
+- ✅ **System Design**: Station bus architecture, bay controller integration
+- ✅ **Use Cases**: Protection coordination, real-time monitoring, HVDC converter automation
+- 📚 **Tools**: libIEC61850, SCL configuration, Wireshark protocol analysis
+
+**Practical Focus**: Translating IEC 61850 concepts into system designs, testing frameworks, and technical documentation for network planning and HVDC projects.
 ---
 
 ### 🛠️ Tech Stack
