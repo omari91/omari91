@@ -113,8 +113,7 @@ _"Building the infrastructure for Germany's renewable energy future, one validat
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=omari91&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+  <img src="https://streak-stats.demolab.com/omari91?theme=tokyonight&hide_border=true" alt="GitHub Streak" /></div>
 ---
 
 ### 🐍 Contribution Snake
