@@ -101,3 +101,18 @@ _IEEE ETECOM 2025 Conference • Best Paper Award Winner_
 - **ORCID:** [0009-0009-3542-4966](https://orcid.org/0009-0009-3542-4966)
 
 _"Building the infrastructure for Germany's renewable energy future, one validated simulation at a time."_
+
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omari91&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omari91&layout=compact&theme=radical&hide_border=true)
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/omari91/omari91/output/github-contribution-grid-snake-dark.svg)
