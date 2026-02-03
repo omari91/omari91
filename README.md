@@ -107,12 +107,22 @@ _"Building the infrastructure for Germany's renewable energy future, one validat
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omari91&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omari91&layout=compact&theme=radical&hide_border=true)
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omari91&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omari91&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+</p>
 
 ---
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/omari91/omari91/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/omari91/omari91/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
