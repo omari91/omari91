@@ -107,17 +107,14 @@ _"Building the infrastructure for Germany's renewable energy future, one validat
 
 ### 📊 GitHub Stats
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=omari91&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omari91&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omari91&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omari91&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omari91&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ---
 
