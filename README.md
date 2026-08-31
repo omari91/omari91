@@ -103,7 +103,9 @@ I engineer **production-grade grid digital twins** and real-time control archite
 
 > **Electric Vehicle Charging Infrastructure Optimization in Berlin: A Fuzzy Multi-Objective Framework for Robust Deployment Under Uncertainty**  
 > *IEEE ETECOM 2025 Conference • Best Paper Award Winner*  
-> 🔗 [View Publication Record on ORCID](https://orcid.org/0009-0009-3542-4966)
+> 🔗 [View Publication on ORCID](https://orcid.org/0009-0009-3542-4966) &nbsp;|&nbsp; 💻 [Source Code: `Prof-it/geo-spatial-Berlin-EVC-placement`](https://github.com/Prof-it/geo-spatial-Berlin-EVC-placement)
+>
+> *Tools & Methodologies:* `NSGA-II Multi-Objective Optimization` • `GeoPandas` • `Pymoo` • `Folium` • `Python`
 
 ---
 
