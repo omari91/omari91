@@ -130,3 +130,4 @@ I engineer **production-grade grid digital twins** and real-time control archite
 <p align="center">
   <img src="https://raw.githubusercontent.com/omari91/omari91/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
+
