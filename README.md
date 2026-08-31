@@ -119,12 +119,12 @@ I engineer **production-grade grid digital twins** and real-time control archite
 ### 📊 Activity & Analytics
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=omari91&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Clifford's GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omari91&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omari91&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Clifford's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omari91&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=omari91&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=omari91&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <p align="center">
