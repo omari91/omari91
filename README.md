@@ -121,6 +121,10 @@ I engineer **production-grade grid digital twins** and real-time control archite
 ### 📊 Activity & Analytics
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omari91&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="Clifford's GitHub Trophies" />
+</div>
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omari91&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Clifford's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omari91&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </div>
